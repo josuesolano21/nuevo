@@ -1,2 +1,4 @@
 palabra
 nueva palabra
+
+documentacion de .gitignore en confi.txt
